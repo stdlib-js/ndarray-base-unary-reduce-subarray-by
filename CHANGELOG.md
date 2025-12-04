@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-23)
+## Unreleased (2025-12-04)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`4d90d1a`](https://github.com/stdlib-js/stdlib/commit/4d90d1a8908b2328735f43fccaca8e9a1daffb35) - **docs:** fix example code in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`f84c1a6`](https://github.com/stdlib-js/stdlib/commit/f84c1a6ecbaf68b7dfbeef4576111bc277885d1a) - **fix:** remove unused parameter _(by Athan Reines)_
 -   [`b00978b`](https://github.com/stdlib-js/stdlib/commit/b00978b67f6f32f7f6a343f29685ff4da30bd89d) - **fix:** address assignment bug _(by Athan Reines)_
 -   [`94d843a`](https://github.com/stdlib-js/stdlib/commit/94d843af73c57022a0ebf76e8c5316fe1493f09c) - **docs:** fix example _(by Athan Reines)_
@@ -49,10 +50,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
