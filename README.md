@@ -48,13 +48,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-unary-reduce-subarray-by/tags). For example,
+
+```javascript
 import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@deno/mod.js';
 ```
 
 #### unaryReduceSubarrayBy( fcn, arrays, dims\[, options], clbk\[, thisArg] )
@@ -246,7 +251,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
 import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@deno/mod.js';
-import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-deno/mod.js';
+import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@deno/mod.js';
 
 function clbk( value ) {
     return value > -3;
