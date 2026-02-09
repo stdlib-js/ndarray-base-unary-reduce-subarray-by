@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@esm/index.mjs';
+import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-esm/index.mjs';
 ```
 
 #### unaryReduceSubarrayBy( fcn, arrays, dims\[, options], clbk\[, thisArg] )
@@ -251,7 +251,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import filled from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
 import everyBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-every-by@esm/index.mjs';
-import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@esm/index.mjs';
+import unaryReduceSubarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-unary-reduce-subarray-by@v0.1.1-esm/index.mjs';
 
 function clbk( value ) {
     return value > -3;
