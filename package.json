@@ -46,6 +46,7 @@
     "@stdlib/array-base-zero-to": "^0.2.2",
     "@stdlib/array-base-zeros": "^0.2.3",
     "@stdlib/assert-is-function": "^0.2.3",
+    "@stdlib/ndarray-base-descriptor": "github:stdlib-js/ndarray-base-descriptor#main",
     "@stdlib/ndarray-base-ind2sub": "^0.2.3",
     "@stdlib/ndarray-base-iteration-order": "^0.2.3",
     "@stdlib/ndarray-base-ndarraylike2object": "^0.2.3",
