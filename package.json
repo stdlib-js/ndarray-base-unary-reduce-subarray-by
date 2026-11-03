@@ -49,7 +49,7 @@
     "@stdlib/ndarray-base-descriptor": "github:stdlib-js/ndarray-base-descriptor#main",
     "@stdlib/ndarray-base-ind2sub": "^0.2.3",
     "@stdlib/ndarray-base-iteration-order": "^0.2.3",
-    "@stdlib/ndarray-base-ndarraylike2object": "^0.2.3",
+    "@stdlib/ndarray-base-ndarraylikes2objects": "github:stdlib-js/ndarray-base-ndarraylikes2objects#main",
     "@stdlib/ndarray-base-numel": "^0.2.3",
     "@stdlib/ndarray-base-strides2order": "^0.2.3",
     "@stdlib/ndarray-base-to-unique-normalized-indices": "^0.1.1",
