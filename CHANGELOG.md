@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-03)
+## Unreleased (2026-11-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`897b63e`](https://github.com/stdlib-js/stdlib/commit/897b63e264ce221ec0afd71c2c137dc2442f4588) - **refactor:** replace explicit `for` loop _(by Athan Reines)_
 -   [`8bc28dd`](https://github.com/stdlib-js/stdlib/commit/8bc28dd32b2b136b57c4c5c5d9298988e8d1ef47) - **refactor:** use utility to create objects having a consistent hidden shape _(by Athan Reines)_
 -   [`ef8dc22`](https://github.com/stdlib-js/stdlib/commit/ef8dc22cb842e83aa870936e525bfcc3cd47473c) - **refactor:** use already defined variable _(by Athan Reines)_
@@ -27,9 +28,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
